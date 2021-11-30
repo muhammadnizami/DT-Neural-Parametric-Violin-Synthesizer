@@ -12,7 +12,8 @@ A (DT-)Neural Parametric Violin Synthesizer
 The following package contains a python implementation of the synthesizer
 described in the following works:
 	- Nizami, M., and Lestari, D. P. (2019). Sistem Permainan Musik Ekspresif untuk Alat Musik Gesek. Master's Thesis. Institut Teknologi Bandung
-	- Nizami, M., and Lestari, D. P. (2021). A DT-Neural Parametric Violin Synthesizer. Under publication process in ICEEI 2021
+	- M. Nizami and D. P. Lestari, "A DT-Neural Parametric Violin Synthesizer," 2021 International Conference on Electrical Engineering and Informatics (ICEEI), 2021, pp. 1-6, doi: 10.1109/ICEEI52609.2021.9611115.
+		link to paper: https://ieeexplore.ieee.org/abstract/document/9611115
 
 
 ----------
